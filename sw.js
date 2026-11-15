@@ -8,7 +8,7 @@
 //   not precached is saved the first time it's used.
 'use strict';
 
-const VERSION = "7727a06f";
+const VERSION = "e89c9ed0";
 const CACHE = `forkcast-${VERSION}`;
 const FONTS = 'forkcast-fonts';
 const CORE = [
@@ -41,7 +41,7 @@ const CORE = [
   "icons/Icon-maskable-192.png",
   "icons/Icon-maskable-512.png",
   "index.html",
-  "main.dart.7727a06f.js",
+  "main.dart.e89c9ed0.js",
   "manifest.json",
   "sqlite3.wasm",
   "version.json",
@@ -82,8 +82,10 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
 
-  // Fallback fonts (emoji, symbols) that Flutter fetches from Google.
-  if (url.hostname === 'fonts.gstatic.com' || url.hostname === 'fonts.googleapis.com') {
+  // Fallback fonts (emoji, symbols) that Flutter fetches from Google,
+  // and the Firebase JavaScript SDK (sign-in and sync), so the app starts offline.
+  if (url.hostname === 'fonts.gstatic.com' || url.hostname === 'fonts.googleapis.com'
+      || (url.hostname === 'www.gstatic.com' && url.pathname.startsWith('/firebasejs/'))) {
     event.respondWith(cacheFirst(FONTS, req));
     return;
   }
