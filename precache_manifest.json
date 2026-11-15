@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "url": ".git/HEAD",
+      "hash": "28d25bf8",
+      "size": 21,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/config",
+      "hash": "8f9b96b2",
+      "size": 258,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/description",
+      "hash": "85ab6c16",
+      "size": 73,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/applypatch-msg.sample",
+      "hash": "0223497a",
+      "size": 478,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/commit-msg.sample",
+      "hash": "efc1401b",
+      "size": 1972,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/fsmonitor-watchman.sample",
+      "hash": "91597200",
+      "size": 4611,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/post-update.sample",
+      "hash": "81765af2",
+      "size": 189,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-applypatch.sample",
+      "hash": "e15c5b46",
+      "size": 424,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-commit.sample",
+      "hash": "57185b7b",
+      "size": 1649,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-merge-commit.sample",
+      "hash": "d3825a70",
+      "size": 416,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-push.sample",
+      "hash": "ecce9c7e",
+      "size": 1374,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-rebase.sample",
+      "hash": "4febce86",
+      "size": 4898,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/pre-receive.sample",
+      "hash": "a4c3d2b9",
+      "size": 544,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/prepare-commit-msg.sample",
+      "hash": "e9ddcaa4",
+      "size": 1492,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/push-to-checkout.sample",
+      "hash": "a53d0741",
+      "size": 2783,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/sendemail-validate.sample",
+      "hash": "44ebfc92",
+      "size": 2308,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/hooks/update.sample",
+      "hash": "8d5f2fa8",
+      "size": 3650,
+      "urlHashed": false
+    },
+    {
+      "url": ".git/info/exclude",
+      "hash": "6671fe83",
+      "size": 240,
+      "urlHashed": false
+    },
+    {
+      "url": "assets/AssetManifest.98ed3486.bin",
+      "hash": "98ed3486",
+      "size": 1030,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/AssetManifest.bin.3c871fe8.json",
+      "hash": "3c871fe8",
+      "size": 1378,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/FontManifest.a6276b26.json",
+      "hash": "a6276b26",
+      "size": 921,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/NOTICES.541443d4",
+      "hash": "541443d4",
+      "size": 1424311,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Fraunces-500.f423d85f.ttf",
+      "hash": "f423d85f",
+      "size": 36276,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Fraunces-600.c797966c.ttf",
+      "hash": "c797966c",
+      "size": 36328,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Fraunces-700.acabb96c.ttf",
+      "hash": "acabb96c",
+      "size": 36288,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-400.e6c9add3.ttf",
+      "hash": "e6c9add3",
+      "size": 29704,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-500.92a867e4.ttf",
+      "hash": "92a867e4",
+      "size": 29796,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-600.b9118288.ttf",
+      "hash": "b9118288",
+      "size": 29780,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-700.0e64e5b1.ttf",
+      "hash": "0e64e5b1",
+      "size": 29740,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-800.0b7b8f06.ttf",
+      "hash": "0b7b8f06",
+      "size": 29744,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/icon/icon.74c3f07d.png",
+      "hash": "74c3f07d",
+      "size": 59668,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/fonts/MaterialIcons-Regular.d9865b67.otf",
+      "hash": "d9865b67",
+      "size": 1645184,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/fonts/fallback/Roboto-Regular.79e85140.ttf",
+      "hash": "79e85140",
+      "size": 171676,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/cupertino_icons/assets/CupertinoIcons.67c44fe9.ttf",
+      "hash": "67c44fe9",
+      "size": 257628,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/material_ui/shaders/ink_sparkle.2dca5ab9.frag",
+      "hash": "2dca5ab9",
+      "size": 8890,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/ink_sparkle.2dca5ab9.frag",
+      "hash": "2dca5ab9",
+      "size": 8890,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/stretch_effect.ab412f07.frag",
+      "hash": "ab412f07",
+      "size": 6737,
+      "urlHashed": true
+    },
+    {
+      "url": "canvaskit/canvaskit.js",
+      "hash": "4719b51c",
+      "size": 87031,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/canvaskit.wasm",
+      "hash": "f3c2ff16",
+      "size": 7315452,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.js",
+      "hash": "b836e30a",
+      "size": 86270,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.wasm",
+      "hash": "e269e717",
+      "size": 5463539,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm.js",
+      "hash": "373ad56a",
+      "size": 63858,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm.wasm",
+      "hash": "8cc8a3a9",
+      "size": 3612036,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.js",
+      "hash": "0c22eeac",
+      "size": 63971,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.wasm",
+      "hash": "08274767",
+      "size": 5232173,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.js",
+      "hash": "6a95972e",
+      "size": 76114,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.wasm",
+      "hash": "01f0337c",
+      "size": 3753480,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/wimp.js",
+      "hash": "e4bc298d",
+      "size": 59546,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/wimp.wasm",
+      "hash": "f2850c85",
+      "size": 3604253,
+      "urlHashed": false
+    },
+    {
+      "url": "drift_worker.js",
+      "hash": "48c950cd",
+      "size": 363283,
+      "urlHashed": false
+    },
+    {
+      "url": "favicon.png",
+      "hash": "1b5ae027",
+      "size": 3158,
+      "urlHashed": false
+    },
+    {
+      "url": "flutter.js",
+      "hash": "d2e7708f",
+      "size": 13169,
+      "urlHashed": false
+    },
+    {
+      "url": "flutter_bootstrap.js",
+      "hash": "d53f5d18",
+      "size": 14644,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-192.png",
+      "hash": "f1cbca8c",
+      "size": 9914,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-512.png",
+      "hash": "84b211a2",
+      "size": 31035,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-maskable-192.png",
+      "hash": "08d8e886",
+      "size": 7596,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-maskable-512.png",
+      "hash": "d68684cb",
+      "size": 24804,
+      "urlHashed": false
+    },
+    {
+      "url": "index.html",
+      "hash": "bd262075",
+      "size": 2814,
+      "urlHashed": false
+    },
+    {
+      "url": "main.dart.7727a06f.js",
+      "hash": "7727a06f",
+      "size": 3938467,
+      "urlHashed": true
+    },
+    {
+      "url": "manifest.json",
+      "hash": "f4f535bf",
+      "size": 937,
+      "urlHashed": false
+    },
+    {
+      "url": "sqlite3.wasm",
+      "hash": "e7451780",
+      "size": 758836,
+      "urlHashed": false
+    },
+    {
+      "url": "version.json",
+      "hash": "8f1ca747",
+      "size": 94,
+      "urlHashed": false
+    }
+  ]
+}
