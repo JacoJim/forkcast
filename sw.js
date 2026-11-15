@@ -8,7 +8,7 @@
 //   not precached is saved the first time it's used.
 'use strict';
 
-const VERSION = "e89c9ed0";
+const VERSION = "82376b0f";
 const CACHE = `forkcast-${VERSION}`;
 const FONTS = 'forkcast-fonts';
 const CORE = [
@@ -41,7 +41,7 @@ const CORE = [
   "icons/Icon-maskable-192.png",
   "icons/Icon-maskable-512.png",
   "index.html",
-  "main.dart.e89c9ed0.js",
+  "main.dart.82376b0f.js",
   "manifest.json",
   "sqlite3.wasm",
   "version.json",
